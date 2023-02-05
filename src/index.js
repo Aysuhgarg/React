@@ -5,6 +5,7 @@ import MyComp from'./MyComp';
 import ClassBaseCompo from './ClassBaseCompo';
 ReactDOM.render(
     <div>
+      <MyComp/>
       <ClassBaseCompo />
       <ClassBaseCompo />
       <ClassBaseCompo />
